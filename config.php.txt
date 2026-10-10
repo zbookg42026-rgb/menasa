@@ -1,0 +1,10 @@
+<?php
+/* إعدادات قاعدة البيانات — عبّئ القيم من لوحة هوستنجر (Databases ← MySQL) */
+define('DB_HOST', 'localhost');      // عادة localhost في هوستنجر
+define('DB_NAME', 'u829804039_System1');   // ← عدّل
+define('DB_USER', 'u829804039_Eyad');   // ← عدّل
+define('DB_PASS', 'Ey01204635599');         // ← عدّل
+define('DB_TABLE', 'platform_data');
+define('BACKUP_TABLE', 'platform_backups');
+define('MAX_BACKUPS', 100); // أقصى عدد نسخ احتياطية فورية محفوظة على السيرفر
+?>

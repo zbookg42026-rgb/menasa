@@ -1,0 +1,16 @@
+{
+  "name": "منصتي التعليمية — إدارة المعلمين والنماذج",
+  "short_name": "منصتي التعليمية",
+  "description": "منصة تعليمية: حسابات المعلمين والمشرفين، نماذج الدفع والدعم العلمي، والرسائل على لوحة التحكم",
+  "lang": "ar",
+  "dir": "rtl",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#f4f6fa",
+  "theme_color": "#1565d8",
+  "icons": [
+    { "src": "icon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any" },
+    { "src": "icon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "maskable" }
+  ]
+}
